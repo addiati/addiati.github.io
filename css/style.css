@@ -912,9 +912,9 @@ header {
 
 .pricing .price {
     position: relative;
-    width: 140px;
-    height: 140px;
-    line-height: 140px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
     text-align: center;
     margin: auto;
     border-radius: 50%;
